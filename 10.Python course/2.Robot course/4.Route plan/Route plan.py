@@ -26,7 +26,6 @@ def run_L():
         tinybit.car_run(speed_run)
         sleep(1000)
         tinybit.car_stop()
-        global b
         b = 0
 
 def run_O():
@@ -49,7 +48,6 @@ def run_O():
         tinybit.car_run(speed_run)
         sleep(1000)
         tinybit.car_stop()
-        global b
         b = 0
 
 def run_D():
@@ -68,7 +66,6 @@ def run_D():
         tinybit.car_run(speed_run)
         sleep(1200)
         tinybit.car_stop()
-        global b
         b = 0
 
 def run_Z():
@@ -87,7 +84,6 @@ def run_Z():
         tinybit.car_run(speed_run)
         sleep(1300)
         tinybit.car_stop()
-        global b
         b = 0
 
 

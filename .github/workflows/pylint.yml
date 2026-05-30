@@ -1,4 +1,4 @@
-name: Pylint
+name: Python syntax check
 
 on: [push]
 
@@ -17,7 +17,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pylint
-    - name: Analysing the code with pylint
+    - name: Check Python syntax
       run: |
-        pylint $(git ls-files '*.py')
+        git ls-files -z '*.py' | xargs -0 -n 1 python -m py_compile

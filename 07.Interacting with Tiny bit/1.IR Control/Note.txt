@@ -6,3 +6,6 @@ Note:
 
 3) During use, the infrared remote controller needs to point to the infrared receiver head directly in front of the car.
 
+Please don't import the IR-control-v1.hex or IR-control-v2.hex to MakeCode programming interface, you need directly download the hex file into Micro:bit board.
+
+Once you open IR-control-v1.hex or IR-control-v2.hex, save them into computer or download them into Micro:bit board, it will not work properly.

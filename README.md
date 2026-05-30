@@ -1,5 +1,13 @@
 # Tiny-bit
 ![](https://github.com/YahboomTechnology/Tiny-bit/blob/master/Tinybit_TinybitPlus_Yahboom.jpg)
+
+New to Tiny:bit? Start here:
+
+- [START_HERE.md](START_HERE.md) for a simple beginner path
+- [Kids Projects](Kids%20Projects/) for small coding activities
+- [Glossary](Kids%20Projects/GLOSSARY.md) for coding words
+- [Troubleshooting](Kids%20Projects/TROUBLESHOOTING.md) when something does not work
+
 # Introduction
 Tiny:bit is a robotic car for the micro:bit education market. It is compact, easy to assemble, and easy to move in tight spaces. The Tiny:bit smart car is based on the micro:bit development board design and uses the online code programming of MakeCode Editor. Rich sensor applications allow Tiny:bit for easy interaction. The Tiny:bit smart car has a set of alligator clips on the rear that can be creative and expand.
 # Features
@@ -22,4 +30,3 @@ https://www.facebook.com/yahboomtech
 
 ### Technical support email: 
 support@yahboom.com
-
